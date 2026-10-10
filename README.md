@@ -1,1 +1,2 @@
 # PortafolioProgramacionFundamental
+Jose Manuel Conde Montecinos
