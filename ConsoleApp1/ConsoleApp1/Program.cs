@@ -134,3 +134,34 @@ class Program
             Console.WriteLine("Error: debes escribir un numero entero");
         }
     }
+    // Ejercicio 4: Registro de edad
+    static void Ejercicio4()
+    {
+        try
+        {
+            Console.Write("Edad: ");
+            int edad = int.Parse(Console.ReadLine());
+
+            if (edad < 0 || edad > 120)
+            {
+                Console.WriteLine("Error: la edad debe estar entre 0 y 120");
+            }
+            else
+            {
+                Console.WriteLine("Edad registrada: " + edad);
+            }
+        }
+        catch (FormatException)
+        {
+            Console.WriteLine("Error: la edad debe ser un numero entero");
+        }
+        catch (OverflowException)
+        {
+            Console.WriteLine("Error: el numero es demasiado grande");
+        }
+        finally
+        {
+            Console.WriteLine("Registro procesado");
+        }
+    }
+}
