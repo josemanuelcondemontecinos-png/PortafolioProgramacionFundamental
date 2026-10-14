@@ -64,3 +64,27 @@ class Program
             Console.WriteLine("Operacion finalizada");
         }
     }
+    // Ejercicio 2: Consulta segura de notas
+    static void Ejercicio2()
+    {
+        int[] notas = { 70, 85, 90, 60, 100 };
+        try
+        {
+            Console.Write("Numero de estudiante (1 a 5): ");
+            int posicion = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Nota del estudiante " + posicion + ": " + notas[posicion - 1]);
+        }
+        catch (FormatException)
+        {
+            Console.WriteLine("Error: debes escribir un numero");
+        }
+        catch (IndexOutOfRangeException)
+        {
+            Console.WriteLine("Error: el estudiante debe estar entre 1 y 5");
+        }
+        finally
+        {
+            Console.WriteLine("Consulta terminada");
+        }
+    }
