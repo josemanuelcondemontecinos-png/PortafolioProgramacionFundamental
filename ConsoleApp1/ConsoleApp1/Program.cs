@@ -88,3 +88,49 @@ class Program
             Console.WriteLine("Consulta terminada");
         }
     }
+    // Ejercicio 3: Cola de atencion en el consultorio
+    static void Ejercicio3()
+    {
+        Queue<string> cola = new Queue<string>();
+        try
+        {
+            Console.Write("Cantidad de pacientes: ");
+            int n = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("Nombre del paciente " + (i + 1) + ": ");
+                string nombre = Console.ReadLine();
+                cola.Enqueue(nombre);
+            }
+
+            Console.Write("Turnos a atender: ");
+            int turnos = int.Parse(Console.ReadLine());
+            int atendidos = 0;
+            int intentados = 0;
+
+            for (int t = 1; t <= turnos; t++)
+            {
+                try
+                {
+                    string paciente = cola.Dequeue();
+                    Console.WriteLine("Turno " + t + ": atendiendo a " + paciente);
+                    atendidos++;
+                }
+                catch (InvalidOperationException)
+                {
+                    Console.WriteLine("Turno " + t + ": no hay pacientes en espera");
+                }
+                finally
+                {
+                    intentados++;
+                }
+            }
+
+            Console.WriteLine("Atendidos: " + atendidos + " de " + turnos + " turnos");
+        }
+        catch (FormatException)
+        {
+            Console.WriteLine("Error: debes escribir un numero entero");
+        }
+    }
