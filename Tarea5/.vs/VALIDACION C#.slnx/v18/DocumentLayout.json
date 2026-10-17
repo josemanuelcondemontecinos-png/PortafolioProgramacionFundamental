@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jos\u00E9\\Desktop\\PORTAFOLIO PROGRAMACION\\PortafolioProgramacionFundamental\\Tarea5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4B6E3A-53D0-316E-713F-A355B4290729}|VALIDACION C#\\VALIDACION C#.csproj|c:\\users\\jos\u00E9\\desktop\\portafolio programacion\\portafolioprogramacionfundamental\\tarea5\\validacion c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4B6E3A-53D0-316E-713F-A355B4290729}|VALIDACION C#\\VALIDACION C#.csproj|solutionrelative:validacion c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\PORTAFOLIO PROGRAMACION\\PortafolioProgramacionFundamental\\Tarea5\\VALIDACION C#\\Program.cs",
+              "RelativeDocumentMoniker": "VALIDACION C#\\Program.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\PORTAFOLIO PROGRAMACION\\PortafolioProgramacionFundamental\\Tarea5\\VALIDACION C#\\Program.cs",
+              "RelativeToolTip": "VALIDACION C#\\Program.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAwAIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:08:49.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

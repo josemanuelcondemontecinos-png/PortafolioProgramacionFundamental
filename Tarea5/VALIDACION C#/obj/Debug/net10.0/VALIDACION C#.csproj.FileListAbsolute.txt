@@ -1,0 +1,16 @@
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\bin\Debug\net10.0\VALIDACION C#.exe
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\bin\Debug\net10.0\VALIDACION C#.deps.json
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\bin\Debug\net10.0\VALIDACION C#.runtimeconfig.json
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\bin\Debug\net10.0\VALIDACION C#.dll
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\bin\Debug\net10.0\VALIDACION C#.pdb
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\VALIDACION C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\VALIDACION C#.AssemblyInfoInputs.cache
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\VALIDACION C#.AssemblyInfo.cs
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\VALIDACION C#.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\VALIDACION C#.sourcelink.json
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\VALIDACION C#.dll
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\refint\VALIDACION C#.dll
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\VALIDACION C#.pdb
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\VALIDACION C#.genruntimeconfig.cache
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\ref\VALIDACION C#.dll
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\VALIDACION C#\VALIDACION C#\obj\Debug\net10.0\VALIDACI.5A7F2C76.Up2Date
