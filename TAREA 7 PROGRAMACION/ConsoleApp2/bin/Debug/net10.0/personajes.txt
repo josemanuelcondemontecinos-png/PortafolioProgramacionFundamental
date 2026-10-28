@@ -1,0 +1,3 @@
+Akari;Maga de fuego;3
+Hideo;Guerrero;6
+Sophi;Sanadora;12

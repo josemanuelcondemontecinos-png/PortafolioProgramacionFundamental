@@ -1,0 +1,17 @@
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.exe
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.deps.json
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.runtimeconfig.json
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.dll
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.pdb
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.sourcelink.json
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.dll
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\refint\ConsoleApp2.dll
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.pdb
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ref\ConsoleApp2.dll
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleA.D5FB4C91.Up2Date
+C:\Users\José\Desktop\PORTAFOLIO PROGRAMACION\PortafolioProgramacionFundamental\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.runtimeconfig.dev.json
