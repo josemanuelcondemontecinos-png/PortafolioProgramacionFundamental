@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jos\u00E9\\Desktop\\PORTAFOLIO PROGRAMACION\\PortafolioProgramacionFundamental\\ConsoleApp2\\",
+  "WorkspaceRootPath": "C:\\Users\\Jos\u00E9\\Desktop\\PORTAFOLIO PROGRAMACION\\PortafolioProgramacionFundamental\\TAREA 7 PROGRAMACION\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\jos\u00E9\\desktop\\portafolio programacion\\portafolioprogramacionfundamental\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\jos\u00E9\\desktop\\portafolio programacion\\portafolioprogramacionfundamental\\tarea 7 programacion\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\PORTAFOLIO PROGRAMACION\\PortafolioProgramacionFundamental\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\PORTAFOLIO PROGRAMACION\\PortafolioProgramacionFundamental\\TAREA 7 PROGRAMACION\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
-              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\PORTAFOLIO PROGRAMACION\\PortafolioProgramacionFundamental\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\PORTAFOLIO PROGRAMACION\\PortafolioProgramacionFundamental\\TAREA 7 PROGRAMACION\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAQwN0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAQwNAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-28T03:16:10.184Z",
               "EditorCaption": ""
