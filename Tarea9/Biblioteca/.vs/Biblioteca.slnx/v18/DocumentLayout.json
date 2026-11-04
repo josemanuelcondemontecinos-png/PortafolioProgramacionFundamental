@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|c:\\users\\jos\u00E9\\desktop\\tarea9\\biblioteca\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|c:\\users\\jos\u00E9\\desktop\\tarea9\\biblioteca\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|c:\\users\\jos\u00E9\\desktop\\tarea9\\biblioteca\\form4.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|solutionrelative:form4.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|c:\\users\\jos\u00E9\\desktop\\tarea9\\biblioteca\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|c:\\users\\jos\u00E9\\desktop\\tarea9\\biblioteca\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|solutionrelative:form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|c:\\users\\jos\u00E9\\desktop\\tarea9\\biblioteca\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|c:\\users\\jos\u00E9\\desktop\\tarea9\\biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|c:\\users\\jos\u00E9\\desktop\\tarea9\\biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|c:\\users\\jos\u00E9\\desktop\\tarea9\\biblioteca\\form3.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|solutionrelative:form3.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|c:\\users\\jos\u00E9\\desktop\\tarea9\\biblioteca\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|Biblioteca.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T03:02:47.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.resx",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form4.resx",
+              "RelativeDocumentMoniker": "Form4.resx",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form4.resx",
+              "RelativeToolTip": "Form4.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-04T03:02:52.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form4.Designer.cs",
+              "RelativeToolTip": "Form4.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T03:02:34.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T03:02:33.479Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T02:55:16.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T02:50:42.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.resx",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form3.resx",
+              "RelativeDocumentMoniker": "Form3.resx",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form3.resx",
+              "RelativeToolTip": "Form3.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-04T02:50:48.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T02:50:43.637Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T02:50:38.08Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Desktop\\Tarea9\\Biblioteca\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T02:50:33.004Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
